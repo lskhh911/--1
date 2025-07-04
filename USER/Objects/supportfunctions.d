@@ -1,0 +1,11 @@
+.\objects\supportfunctions.o: ..\Source\SupportFunctions\SupportFunctions.c
+.\objects\supportfunctions.o: ..\Source\SupportFunctions\arm_barycenter_f32.c
+.\objects\supportfunctions.o: ..\Include\dsp/support_functions.h
+.\objects\supportfunctions.o: ..\Include\arm_math_types.h
+.\objects\supportfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\supportfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\supportfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\supportfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\supportfunctions.o: ..\Include\arm_math_memory.h
+.\objects\supportfunctions.o: ..\Include\dsp/none.h
+.\objects\supportfunctions.o: ..\Include\dsp/utils.h

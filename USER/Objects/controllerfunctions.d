@@ -1,0 +1,11 @@
+.\objects\controllerfunctions.o: ..\Source\ControllerFunctions\ControllerFunctions.c
+.\objects\controllerfunctions.o: ..\Source\ControllerFunctions\arm_pid_init_f32.c
+.\objects\controllerfunctions.o: ..\Include\dsp/controller_functions.h
+.\objects\controllerfunctions.o: ..\Include\arm_math_types.h
+.\objects\controllerfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\controllerfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\controllerfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\controllerfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\controllerfunctions.o: ..\Include\arm_math_memory.h
+.\objects\controllerfunctions.o: ..\Include\dsp/none.h
+.\objects\controllerfunctions.o: ..\Include\dsp/utils.h

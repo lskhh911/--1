@@ -1,0 +1,11 @@
+.\objects\interpolationfunctions.o: ..\Source\InterpolationFunctions\InterpolationFunctions.c
+.\objects\interpolationfunctions.o: ..\Source\InterpolationFunctions\arm_bilinear_interp_f32.c
+.\objects\interpolationfunctions.o: ..\Include\dsp/interpolation_functions.h
+.\objects\interpolationfunctions.o: ..\Include\arm_math_types.h
+.\objects\interpolationfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\interpolationfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\interpolationfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\interpolationfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\interpolationfunctions.o: ..\Include\arm_math_memory.h
+.\objects\interpolationfunctions.o: ..\Include\dsp/none.h
+.\objects\interpolationfunctions.o: ..\Include\dsp/utils.h

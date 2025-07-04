@@ -1,0 +1,12 @@
+.\objects\filteringfunctions.o: ..\Source\FilteringFunctions\FilteringFunctions.c
+.\objects\filteringfunctions.o: ..\Source\FilteringFunctions\arm_biquad_cascade_df1_32x64_init_q31.c
+.\objects\filteringfunctions.o: ..\Include\dsp/filtering_functions.h
+.\objects\filteringfunctions.o: ..\Include\arm_math_types.h
+.\objects\filteringfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\filteringfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\filteringfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\filteringfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\filteringfunctions.o: ..\Include\arm_math_memory.h
+.\objects\filteringfunctions.o: ..\Include\dsp/none.h
+.\objects\filteringfunctions.o: ..\Include\dsp/utils.h
+.\objects\filteringfunctions.o: ..\Include\dsp/support_functions.h

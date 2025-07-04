@@ -1,0 +1,11 @@
+.\objects\matrixfunctions.o: ..\Source\MatrixFunctions\MatrixFunctions.c
+.\objects\matrixfunctions.o: ..\Source\MatrixFunctions\arm_mat_add_f32.c
+.\objects\matrixfunctions.o: ..\Include\dsp/matrix_functions.h
+.\objects\matrixfunctions.o: ..\Include\arm_math_types.h
+.\objects\matrixfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\matrixfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\matrixfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\matrixfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\matrixfunctions.o: ..\Include\arm_math_memory.h
+.\objects\matrixfunctions.o: ..\Include\dsp/none.h
+.\objects\matrixfunctions.o: ..\Include\dsp/utils.h

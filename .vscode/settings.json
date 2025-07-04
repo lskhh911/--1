@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\ASUS\\Desktop\\STM32\\STM32F407\\USER\\STM32F407.uvprojx",
+
+    "C_Cpp.intelliSenseEngineFallback": "Disabled", //需要添加的
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "files.associations": {
+        "font.h": "c"
+    }, //  需要添加的
+}

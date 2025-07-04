@@ -1,0 +1,12 @@
+.\objects\svmfunctions.o: ..\Source\SVMFunctions\SVMFunctions.c
+.\objects\svmfunctions.o: ..\Source\SVMFunctions\arm_svm_linear_init_f32.c
+.\objects\svmfunctions.o: ..\Include\dsp/svm_functions.h
+.\objects\svmfunctions.o: ..\Include\arm_math_types.h
+.\objects\svmfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\svmfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\svmfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\svmfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\svmfunctions.o: ..\Include\arm_math_memory.h
+.\objects\svmfunctions.o: ..\Include\dsp/none.h
+.\objects\svmfunctions.o: ..\Include\dsp/utils.h
+.\objects\svmfunctions.o: ..\Include\dsp/svm_defines.h

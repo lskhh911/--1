@@ -1,0 +1,9 @@
+*** Using Compiler 'V5.06 update 1 (build 61)', folder: 'E:\software_keil5\ARM\ARMCC\Bin'
+Build target 'STM32F407'
+compiling main.c...
+main.c(23): error:  #20: identifier "RCC_AHB1Perph_GPIOA" is undefined
+      RCC_AHB1PeriphClockCmd(RCC_AHB1Perph_GPIOA,ENABLE);
+main.c: 0 warnings, 1 error
+".\Objects\STM32F407.axf" - 1 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:01

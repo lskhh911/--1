@@ -1,0 +1,13 @@
+.\objects\distancefunctions.o: ..\Source\DistanceFunctions\DistanceFunctions.c
+.\objects\distancefunctions.o: ..\Source\DistanceFunctions\arm_boolean_distance.c
+.\objects\distancefunctions.o: ..\Include\dsp/distance_functions.h
+.\objects\distancefunctions.o: ..\Include\arm_math_types.h
+.\objects\distancefunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\distancefunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\distancefunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\distancefunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\distancefunctions.o: ..\Include\arm_math_memory.h
+.\objects\distancefunctions.o: ..\Include\dsp/none.h
+.\objects\distancefunctions.o: ..\Include\dsp/utils.h
+.\objects\distancefunctions.o: ..\Include\dsp/statistics_functions.h
+.\objects\distancefunctions.o: ..\Include\dsp/basic_math_functions.h

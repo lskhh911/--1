@@ -1,0 +1,10 @@
+.\objects\arm_and_u16.o: ..\CMSIS-DSP\Source\BasicMathFunctions\arm_and_u16.c
+.\objects\arm_and_u16.o: ..\CMSIS-DSP\Include\dsp/basic_math_functions.h
+.\objects\arm_and_u16.o: ..\CMSIS-DSP\Include\arm_math_types.h
+.\objects\arm_and_u16.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\arm_and_u16.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\arm_and_u16.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\arm_and_u16.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\arm_and_u16.o: ..\CMSIS-DSP\Include\arm_math_memory.h
+.\objects\arm_and_u16.o: ..\CMSIS-DSP\Include\dsp/none.h
+.\objects\arm_and_u16.o: ..\CMSIS-DSP\Include\dsp/utils.h

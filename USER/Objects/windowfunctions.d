@@ -1,0 +1,11 @@
+.\objects\windowfunctions.o: ..\Source\WindowFunctions\WindowFunctions.c
+.\objects\windowfunctions.o: ..\Source\WindowFunctions\arm_welch_f32.c
+.\objects\windowfunctions.o: ..\Include\dsp/window_functions.h
+.\objects\windowfunctions.o: ..\Include\arm_math_types.h
+.\objects\windowfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\windowfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\windowfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\windowfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\windowfunctions.o: ..\Include\arm_math_memory.h
+.\objects\windowfunctions.o: ..\Include\dsp/none.h
+.\objects\windowfunctions.o: ..\Include\dsp/utils.h

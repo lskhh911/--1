@@ -1,0 +1,2642 @@
+[
+    {
+        "directory": "USER",
+        "file": "USER/main.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/main.c",
+            "-o",
+            "build/STM32F407/USER/main.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/stm32f4xx_it.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/stm32f4xx_it.c",
+            "-o",
+            "build/STM32F407/USER/stm32f4xx_it.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/system_stm32f4xx.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/system_stm32f4xx.c",
+            "-o",
+            "build/STM32F407/USER/system_stm32f4xx.o"
+        ]
+    },
+    {
+        "directory": "CORE",
+        "file": "CORE/startup_stm32f40_41xxx.s",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CORE/startup_stm32f40_41xxx.s",
+            "-o",
+            "build/STM32F407/CORE/startup_stm32f40_41xxx.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/misc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/misc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/misc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_adc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_adc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_adc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_can.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_can.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_can.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_crc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_crc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_crc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_aes.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_aes.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_aes.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_des.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_des.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_des.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_tdes.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_tdes.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_tdes.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dac.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dac.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dac.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dbgmcu.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dbgmcu.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dbgmcu.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dcmi.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dcmi.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dcmi.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dma.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dma.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dma.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dma2d.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dma2d.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dma2d.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_exti.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_exti.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_exti.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_flash.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_flash.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_flash.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_flash_ramfunc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_flash_ramfunc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_flash_ramfunc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_fsmc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_fsmc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_fsmc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_gpio.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_gpio.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_gpio.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash_md5.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash_md5.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash_md5.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash_sha1.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash_sha1.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash_sha1.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_i2c.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_i2c.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_i2c.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_iwdg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_iwdg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_iwdg.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_ltdc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_ltdc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_ltdc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_pwr.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_pwr.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_pwr.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rcc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rcc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rcc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rng.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rng.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rng.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rtc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rtc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rtc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_sai.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_sai.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_sai.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_sdio.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_sdio.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_sdio.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_spi.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_spi.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_spi.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_syscfg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_syscfg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_syscfg.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_tim.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_tim.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_tim.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_usart.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_usart.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_usart.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_wwdg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_wwdg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_wwdg.o"
+        ]
+    },
+    {
+        "directory": "SYSTEM/sys",
+        "file": "SYSTEM/sys/sys.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "SYSTEM/sys/sys.c",
+            "-o",
+            "build/STM32F407/SYSTEM/sys/sys.o"
+        ]
+    },
+    {
+        "directory": "LCD/src",
+        "file": "LCD/src/LCD.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "LCD/src/LCD.c",
+            "-o",
+            "build/STM32F407/LCD/src/LCD.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/BasicMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/CommonTables",
+        "file": "CMSIS-DSP/DSP/Source/CommonTables/CommonTables.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/CommonTables/CommonTables.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/CommonTables/CommonTables.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/TransformFunctions",
+        "file": "CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/ComplexMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/FastMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "BSP/Inc",
+        "file": "BSP/Inc/printf.h",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "BSP/Inc/printf.h",
+            "-o",
+            "build/STM32F407/BSP/Inc/printf.o"
+        ]
+    },
+    {
+        "directory": "BSP/Src",
+        "file": "BSP/Src/printf.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "BSP/Src/printf.c",
+            "-o",
+            "build/STM32F407/BSP/Src/printf.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/main.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/main.c",
+            "-o",
+            "build/STM32F407/USER/main.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/stm32f4xx_it.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/stm32f4xx_it.c",
+            "-o",
+            "build/STM32F407/USER/stm32f4xx_it.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/system_stm32f4xx.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/system_stm32f4xx.c",
+            "-o",
+            "build/STM32F407/USER/system_stm32f4xx.o"
+        ]
+    },
+    {
+        "directory": "CORE",
+        "file": "CORE/startup_stm32f40_41xxx.s",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CORE/startup_stm32f40_41xxx.s",
+            "-o",
+            "build/STM32F407/CORE/startup_stm32f40_41xxx.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/misc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/misc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/misc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_adc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_adc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_adc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_can.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_can.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_can.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_crc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_crc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_crc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_aes.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_aes.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_aes.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_des.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_des.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_des.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_tdes.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_tdes.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_tdes.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dac.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dac.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dac.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dbgmcu.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dbgmcu.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dbgmcu.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dcmi.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dcmi.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dcmi.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dma.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dma.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dma.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dma2d.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dma2d.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dma2d.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_exti.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_exti.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_exti.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_flash.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_flash.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_flash.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_flash_ramfunc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_flash_ramfunc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_flash_ramfunc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_fsmc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_fsmc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_fsmc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_gpio.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_gpio.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_gpio.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash_md5.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash_md5.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash_md5.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash_sha1.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash_sha1.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash_sha1.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_i2c.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_i2c.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_i2c.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_iwdg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_iwdg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_iwdg.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_ltdc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_ltdc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_ltdc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_pwr.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_pwr.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_pwr.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rcc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rcc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rcc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rng.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rng.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rng.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rtc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rtc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rtc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_sai.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_sai.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_sai.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_sdio.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_sdio.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_sdio.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_spi.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_spi.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_spi.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_syscfg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_syscfg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_syscfg.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_tim.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_tim.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_tim.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_usart.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_usart.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_usart.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_wwdg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_wwdg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_wwdg.o"
+        ]
+    },
+    {
+        "directory": "SYSTEM/sys",
+        "file": "SYSTEM/sys/sys.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "SYSTEM/sys/sys.c",
+            "-o",
+            "build/STM32F407/SYSTEM/sys/sys.o"
+        ]
+    },
+    {
+        "directory": "LCD/src",
+        "file": "LCD/src/LCD.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "LCD/src/LCD.c",
+            "-o",
+            "build/STM32F407/LCD/src/LCD.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/BasicMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/CommonTables",
+        "file": "CMSIS-DSP/DSP/Source/CommonTables/CommonTables.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/CommonTables/CommonTables.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/CommonTables/CommonTables.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/TransformFunctions",
+        "file": "CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/ComplexMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/FastMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "BSP/Inc",
+        "file": "BSP/Inc/printf.h",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "BSP/Inc/printf.h",
+            "-o",
+            "build/STM32F407/BSP/Inc/printf.o"
+        ]
+    },
+    {
+        "directory": "BSP/Src",
+        "file": "BSP/Src/printf.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "BSP/Src/printf.c",
+            "-o",
+            "build/STM32F407/BSP/Src/printf.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/main.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/main.c",
+            "-o",
+            "build/STM32F407/USER/main.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/stm32f4xx_it.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/stm32f4xx_it.c",
+            "-o",
+            "build/STM32F407/USER/stm32f4xx_it.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/system_stm32f4xx.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/system_stm32f4xx.c",
+            "-o",
+            "build/STM32F407/USER/system_stm32f4xx.o"
+        ]
+    },
+    {
+        "directory": "CORE",
+        "file": "CORE/startup_stm32f40_41xxx.s",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CORE/startup_stm32f40_41xxx.s",
+            "-o",
+            "build/STM32F407/CORE/startup_stm32f40_41xxx.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/misc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/misc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/misc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_adc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_adc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_adc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_can.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_can.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_can.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_crc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_crc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_crc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_aes.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_aes.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_aes.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_des.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_des.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_des.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_tdes.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_tdes.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_tdes.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dac.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dac.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dac.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dbgmcu.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dbgmcu.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dbgmcu.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dcmi.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dcmi.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dcmi.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dma.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dma.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dma.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dma2d.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dma2d.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dma2d.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_exti.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_exti.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_exti.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_flash.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_flash.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_flash.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_flash_ramfunc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_flash_ramfunc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_flash_ramfunc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_fsmc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_fsmc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_fsmc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_gpio.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_gpio.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_gpio.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash_md5.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash_md5.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash_md5.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash_sha1.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash_sha1.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash_sha1.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_i2c.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_i2c.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_i2c.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_iwdg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_iwdg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_iwdg.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_ltdc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_ltdc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_ltdc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_pwr.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_pwr.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_pwr.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rcc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rcc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rcc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rng.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rng.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rng.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rtc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rtc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rtc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_sai.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_sai.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_sai.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_sdio.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_sdio.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_sdio.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_spi.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_spi.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_spi.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_syscfg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_syscfg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_syscfg.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_tim.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_tim.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_tim.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_usart.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_usart.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_usart.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_wwdg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_wwdg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_wwdg.o"
+        ]
+    },
+    {
+        "directory": "SYSTEM/sys",
+        "file": "SYSTEM/sys/sys.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "SYSTEM/sys/sys.c",
+            "-o",
+            "build/STM32F407/SYSTEM/sys/sys.o"
+        ]
+    },
+    {
+        "directory": "LCD/src",
+        "file": "LCD/src/LCD.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "LCD/src/LCD.c",
+            "-o",
+            "build/STM32F407/LCD/src/LCD.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/BasicMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/CommonTables",
+        "file": "CMSIS-DSP/DSP/Source/CommonTables/CommonTables.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/CommonTables/CommonTables.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/CommonTables/CommonTables.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/TransformFunctions",
+        "file": "CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/ComplexMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/FastMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "BSP/Inc",
+        "file": "BSP/Inc/printf.h",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "BSP/Inc/printf.h",
+            "-o",
+            "build/STM32F407/BSP/Inc/printf.o"
+        ]
+    },
+    {
+        "directory": "BSP/Src",
+        "file": "BSP/Src/printf.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "BSP/Src/printf.c",
+            "-o",
+            "build/STM32F407/BSP/Src/printf.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/main.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/main.c",
+            "-o",
+            "build/STM32F407/USER/main.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/stm32f4xx_it.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/stm32f4xx_it.c",
+            "-o",
+            "build/STM32F407/USER/stm32f4xx_it.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/system_stm32f4xx.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/system_stm32f4xx.c",
+            "-o",
+            "build/STM32F407/USER/system_stm32f4xx.o"
+        ]
+    },
+    {
+        "directory": "CORE",
+        "file": "CORE/startup_stm32f40_41xxx.s",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CORE/startup_stm32f40_41xxx.s",
+            "-o",
+            "build/STM32F407/CORE/startup_stm32f40_41xxx.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/misc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/misc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/misc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_adc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_adc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_adc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_can.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_can.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_can.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_crc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_crc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_crc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_aes.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_aes.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_aes.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_des.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_des.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_des.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_tdes.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_tdes.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_tdes.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dac.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dac.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dac.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dbgmcu.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dbgmcu.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dbgmcu.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dcmi.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dcmi.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dcmi.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dma.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dma.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dma.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dma2d.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dma2d.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dma2d.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_exti.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_exti.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_exti.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_flash.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_flash.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_flash.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_flash_ramfunc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_flash_ramfunc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_flash_ramfunc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_fsmc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_fsmc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_fsmc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_gpio.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_gpio.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_gpio.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash_md5.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash_md5.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash_md5.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash_sha1.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash_sha1.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash_sha1.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_i2c.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_i2c.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_i2c.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_iwdg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_iwdg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_iwdg.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_ltdc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_ltdc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_ltdc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_pwr.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_pwr.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_pwr.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rcc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rcc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rcc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rng.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rng.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rng.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rtc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rtc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rtc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_sai.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_sai.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_sai.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_sdio.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_sdio.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_sdio.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_spi.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_spi.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_spi.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_syscfg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_syscfg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_syscfg.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_tim.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_tim.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_tim.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_usart.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_usart.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_usart.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_wwdg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_wwdg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_wwdg.o"
+        ]
+    },
+    {
+        "directory": "SYSTEM/sys",
+        "file": "SYSTEM/sys/sys.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "SYSTEM/sys/sys.c",
+            "-o",
+            "build/STM32F407/SYSTEM/sys/sys.o"
+        ]
+    },
+    {
+        "directory": "LCD/src",
+        "file": "LCD/src/LCD.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "LCD/src/LCD.c",
+            "-o",
+            "build/STM32F407/LCD/src/LCD.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/BasicMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/CommonTables",
+        "file": "CMSIS-DSP/DSP/Source/CommonTables/CommonTables.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/CommonTables/CommonTables.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/CommonTables/CommonTables.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/TransformFunctions",
+        "file": "CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/ComplexMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/FastMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "BSP/Inc",
+        "file": "BSP/Inc/printf.h",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "BSP/Inc/printf.h",
+            "-o",
+            "build/STM32F407/BSP/Inc/printf.o"
+        ]
+    },
+    {
+        "directory": "BSP/Src",
+        "file": "BSP/Src/printf.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "BSP/Src/printf.c",
+            "-o",
+            "build/STM32F407/BSP/Src/printf.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/main.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/main.c",
+            "-o",
+            "build/STM32F407/USER/main.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/stm32f4xx_it.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/stm32f4xx_it.c",
+            "-o",
+            "build/STM32F407/USER/stm32f4xx_it.o"
+        ]
+    },
+    {
+        "directory": "USER",
+        "file": "USER/system_stm32f4xx.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "USER/system_stm32f4xx.c",
+            "-o",
+            "build/STM32F407/USER/system_stm32f4xx.o"
+        ]
+    },
+    {
+        "directory": "CORE",
+        "file": "CORE/startup_stm32f40_41xxx.s",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CORE/startup_stm32f40_41xxx.s",
+            "-o",
+            "build/STM32F407/CORE/startup_stm32f40_41xxx.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/misc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/misc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/misc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_adc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_adc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_adc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_can.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_can.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_can.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_crc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_crc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_crc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_aes.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_aes.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_aes.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_des.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_des.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_des.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_cryp_tdes.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_cryp_tdes.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_cryp_tdes.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dac.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dac.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dac.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dbgmcu.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dbgmcu.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dbgmcu.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dcmi.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dcmi.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dcmi.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dma.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dma.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dma.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_dma2d.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_dma2d.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_dma2d.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_exti.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_exti.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_exti.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_flash.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_flash.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_flash.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_flash_ramfunc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_flash_ramfunc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_flash_ramfunc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_fsmc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_fsmc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_fsmc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_gpio.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_gpio.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_gpio.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash_md5.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash_md5.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash_md5.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_hash_sha1.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_hash_sha1.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_hash_sha1.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_i2c.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_i2c.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_i2c.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_iwdg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_iwdg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_iwdg.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_ltdc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_ltdc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_ltdc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_pwr.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_pwr.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_pwr.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rcc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rcc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rcc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rng.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rng.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rng.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_rtc.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_rtc.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_rtc.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_sai.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_sai.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_sai.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_sdio.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_sdio.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_sdio.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_spi.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_spi.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_spi.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_syscfg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_syscfg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_syscfg.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_tim.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_tim.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_tim.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_usart.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_usart.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_usart.o"
+        ]
+    },
+    {
+        "directory": "FWLIB/src",
+        "file": "FWLIB/src/stm32f4xx_wwdg.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "FWLIB/src/stm32f4xx_wwdg.c",
+            "-o",
+            "build/STM32F407/FWLIB/src/stm32f4xx_wwdg.o"
+        ]
+    },
+    {
+        "directory": "SYSTEM/sys",
+        "file": "SYSTEM/sys/sys.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "SYSTEM/sys/sys.c",
+            "-o",
+            "build/STM32F407/SYSTEM/sys/sys.o"
+        ]
+    },
+    {
+        "directory": "LCD/src",
+        "file": "LCD/src/LCD.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "LCD/src/LCD.c",
+            "-o",
+            "build/STM32F407/LCD/src/LCD.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/BasicMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/BasicMathFunctions/BasicMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/CommonTables",
+        "file": "CMSIS-DSP/DSP/Source/CommonTables/CommonTables.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/CommonTables/CommonTables.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/CommonTables/CommonTables.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/TransformFunctions",
+        "file": "CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/TransformFunctions/TransformFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/ComplexMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/ComplexMathFunctions/ComplexMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "CMSIS-DSP/DSP/Source/FastMathFunctions",
+        "file": "CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.c",
+            "-o",
+            "build/STM32F407/CMSIS-DSP/DSP/Source/FastMathFunctions/FastMathFunctions.o"
+        ]
+    },
+    {
+        "directory": "BSP/Inc",
+        "file": "BSP/Inc/printf.h",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "BSP/Inc/printf.h",
+            "-o",
+            "build/STM32F407/BSP/Inc/printf.o"
+        ]
+    },
+    {
+        "directory": "BSP/Src",
+        "file": "BSP/Src/printf.c",
+        "arguments": [
+            "F:/danpianjisheji/Keil_v5/ARM/ARMCC/bin/armcc.exe",
+            "-c",
+            "BSP/Src/printf.c",
+            "-o",
+            "build/STM32F407/BSP/Src/printf.o"
+        ]
+    }
+]

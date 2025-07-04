@@ -1,0 +1,11 @@
+.\objects\arm_cl_tables.o: ..\ComputeLibrary\Source\arm_cl_tables.c
+.\objects\arm_cl_tables.o: ..\Include\arm_math.h
+.\objects\arm_cl_tables.o: ..\Include\arm_math_types.h
+.\objects\arm_cl_tables.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\arm_cl_tables.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\arm_cl_tables.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\arm_cl_tables.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\arm_cl_tables.o: ..\Include\arm_math_memory.h
+.\objects\arm_cl_tables.o: ..\Include\dsp/none.h
+.\objects\arm_cl_tables.o: ..\Include\dsp/utils.h
+.\objects\arm_cl_tables.o: ..\Include\dsp/basic_math_functions.h

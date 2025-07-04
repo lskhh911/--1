@@ -1,0 +1,12 @@
+.\objects\statisticsfunctions.o: ..\Source\StatisticsFunctions\StatisticsFunctions.c
+.\objects\statisticsfunctions.o: ..\Source\StatisticsFunctions\arm_entropy_f32.c
+.\objects\statisticsfunctions.o: ..\Include\dsp/statistics_functions.h
+.\objects\statisticsfunctions.o: ..\Include\arm_math_types.h
+.\objects\statisticsfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\statisticsfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\statisticsfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\statisticsfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\statisticsfunctions.o: ..\Include\arm_math_memory.h
+.\objects\statisticsfunctions.o: ..\Include\dsp/none.h
+.\objects\statisticsfunctions.o: ..\Include\dsp/utils.h
+.\objects\statisticsfunctions.o: ..\Include\dsp/basic_math_functions.h

@@ -1,0 +1,13 @@
+.\objects\bayesfunctions.o: ..\Source\BayesFunctions\BayesFunctions.c
+.\objects\bayesfunctions.o: ..\Source\BayesFunctions\arm_gaussian_naive_bayes_predict_f32.c
+.\objects\bayesfunctions.o: ..\Include\dsp/bayes_functions.h
+.\objects\bayesfunctions.o: ..\Include\arm_math_types.h
+.\objects\bayesfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\bayesfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\bayesfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\bayesfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\bayesfunctions.o: ..\Include\arm_math_memory.h
+.\objects\bayesfunctions.o: ..\Include\dsp/none.h
+.\objects\bayesfunctions.o: ..\Include\dsp/utils.h
+.\objects\bayesfunctions.o: ..\Include\dsp/statistics_functions.h
+.\objects\bayesfunctions.o: ..\Include\dsp/basic_math_functions.h

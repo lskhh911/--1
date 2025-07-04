@@ -1,0 +1,14 @@
+.\objects\quaternionmathfunctions.o: ..\Source\QuaternionMathFunctions\QuaternionMathFunctions.c
+.\objects\quaternionmathfunctions.o: ..\Source\QuaternionMathFunctions\arm_quaternion_norm_f32.c
+.\objects\quaternionmathfunctions.o: ..\Include\dsp/quaternion_math_functions.h
+.\objects\quaternionmathfunctions.o: ..\Include\arm_math_types.h
+.\objects\quaternionmathfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\quaternionmathfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\quaternionmathfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\quaternionmathfunctions.o: E:\software_keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\quaternionmathfunctions.o: ..\Include\arm_math_memory.h
+.\objects\quaternionmathfunctions.o: ..\Include\dsp/none.h
+.\objects\quaternionmathfunctions.o: ..\Include\dsp/utils.h
+.\objects\quaternionmathfunctions.o: ..\Source\QuaternionMathFunctions\arm_quaternion_inverse_f32.c
+.\objects\quaternionmathfunctions.o: ..\Source\QuaternionMathFunctions\arm_quaternion_conjugate_f32.c
+.\objects\quaternionmathfunctions.o: ..\Source\QuaternionMathFunctions\arm_quaternion_normalize_f32.c
